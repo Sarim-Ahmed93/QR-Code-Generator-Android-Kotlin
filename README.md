@@ -2,8 +2,8 @@
 **Simple Android application for generating QR code in Kotlin usin QRGen Library.**
 
 **app-level build.gradle:**
-
-`android
+`
+android
 {
 compileOptions
             {
@@ -14,7 +14,8 @@ compileOptions
 dependencies 
 {
     implementation 'com.github.kenglxn.qrgen:android:2.6.0'
-}`
+}
+`
 
 **project-level build.gradle:**
 
