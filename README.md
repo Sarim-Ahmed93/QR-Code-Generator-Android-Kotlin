@@ -1,5 +1,5 @@
 # QR-Code-Generator-Android-Kotlin
-**Simple Android application for generating QR code in Kotlin usin QRGen Library.**
+**Simple Android application for generating QR code in Kotlin usin Kenglxn Library.**
 
 **app-level build.gradle:**
 ```
@@ -19,8 +19,10 @@ dependencies
 
 **project-level build.gradle:**
 
-```allprojects {
+```
+allprojects {
     repositories {
         maven { url "https://jitpack.io" }
     }
-}```
+}
+```
