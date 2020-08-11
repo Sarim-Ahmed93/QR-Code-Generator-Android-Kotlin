@@ -27,5 +27,5 @@ allprojects {
 }
 ```
 
-![Screenshot](https://github.com/Sarim-Ahmed93/QR-Code-Generator-Android-Kotlin/blob/master/device-2020-08-10-022305.png)
-![Screenshot](https://github.com/Sarim-Ahmed93/QR-Code-Generator-Android-Kotlin/blob/master/device-2020-08-10-022336.png)
+![Test Image 1](https://github.com/Sarim-Ahmed93/QR-Code-Generator-Android-Kotlin/blob/master/device-2020-08-10-022305.png)
+![Test Image 1](https://github.com/Sarim-Ahmed93/QR-Code-Generator-Android-Kotlin/blob/master/device-2020-08-10-022336.png)
